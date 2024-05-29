@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.hazbin.net"><img src="https://www.hazbin.net/assets/logo-2mbrskq2.png"></a>
+<a href="https://www.hazbin.org"><img src="https://www.hazbin.org/assets/logo-u6njuuua.png"></a>
 </p>
 
 <p align="center">
