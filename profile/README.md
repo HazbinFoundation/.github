@@ -8,7 +8,7 @@ Copyright &copy; Hazbin Foundation
 
 ## About the Hazbin Foundation
 
-*The Hazbin Foundation is a trading name of Hazbin LTD, (Company No. 15535792).*
+*The Hazbin Foundation is a trading name.*
 
 *Registered in England.*
 
